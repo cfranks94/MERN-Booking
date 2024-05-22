@@ -8,7 +8,6 @@ import Layout from './layouts/Layout'
 import Register from "./pages/Register"
 
 function App() {
-
   return (
     <Router>
       <Routes>
